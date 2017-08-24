@@ -1,0 +1,2 @@
+- Work passed to stream processing needs to carry parent/orgin in order to split/customize processing accordingly.
+- Failed Status need to be removed from missing reply intlization.	
